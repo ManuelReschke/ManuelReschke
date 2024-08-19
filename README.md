@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Deutsche Version
+Hi, du kannst mich Manu nennen und ich bin DEV 🤓 Ich programmmiere seit 2012 und ich bin erfahren mit PHP 😍 & GoLang 😍.
+Ihr könnt hier nicht alles sehen weil ich die crazy nicen Projekte auf Gitlab Privat entwickelt habe aber hier Maintaine ich ein paar allgemeine Projekte.
+
 <!--
 **ManuelReschke/ManuelReschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
